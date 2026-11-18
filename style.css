@@ -1,0 +1,33 @@
+/* Complete page border */
+body {
+    border: 5px solid black;
+    min-height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Photo frame */
+.profile img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+
+    border: 5px solid rgb(51, 44, 44);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Name styling */
+.profile h2 {
+    color: black;
+    font-size: 22px;
+}
+p3{
+    color: black;
+    font-size: 22px;
+}
+p4{
+    color: black;
+    font-size: 22px;
+}
